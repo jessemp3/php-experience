@@ -1,0 +1,17 @@
+{
+    "name": "jesse/gerenciamento-de-pacotes-composer",
+    "autoload": {
+        "psr-4": {
+            "Jesse\\GerenciamentoDePacotesComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jesse",
+            "email": "nitchsx@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}
