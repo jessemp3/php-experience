@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/src" isTestSource="false" packagePrefix="Jesse\GerenciamentoDePacotesComposer\" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/mpdf/mpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/mpdf/psr-http-message-shim" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/mpdf/psr-log-aware-trait" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/setasign/fpdi" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
