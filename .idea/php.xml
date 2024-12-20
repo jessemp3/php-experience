@@ -21,6 +21,7 @@
       <path value="$PROJECT_DIR$/gerenciamentoDePacotesComposer/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/gerenciamentoDePacotesComposer/vendor/psr/log" />
       <path value="$PROJECT_DIR$/gerenciamentoDePacotesComposer/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/orientacaoAObjetos/abstracaoEEncapsulamento/vendor/composer" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.3" />

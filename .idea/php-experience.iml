@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/src" isTestSource="false" packagePrefix="Jesse\GerenciamentoDePacotesComposer\" />
+      <sourceFolder url="file://$MODULE_DIR$/orientacaoAObjetos/abstracaoEEncapsulamento/src" isTestSource="false" packagePrefix="App\" />
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/mpdf/mpdf" />
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/mpdf/psr-http-message-shim" />
@@ -12,6 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/gerenciamentoDePacotesComposer/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/orientacaoAObjetos/abstracaoEEncapsulamento/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
