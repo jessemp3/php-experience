@@ -11,3 +11,4 @@ echo '<h3>Users</h3>';
 foreach ($pdo->query($sql) as $key => $value) {
     echo 'Id: ' . $value['id'] . '<br>Nome: ' . $value['nome'] . '<br>Email: ' . $value['email'] . '<hr>';
 }
+?>

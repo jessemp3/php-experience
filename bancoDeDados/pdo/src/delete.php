@@ -15,4 +15,4 @@ echo $prepare->rowCount();
 
 
 //exemplo de como passar a url
-http://localhost:63342/php-experience/bancoDeDados/pdo/src/delete.php?id=3
+//http://localhost:63342/php-experience/bancoDeDados/pdo/src/delete.php?id=3

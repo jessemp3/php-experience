@@ -21,3 +21,4 @@ echo $prepare->rowCount();
 
 //exemplo de como passar a url
 <!--http://localhost:63342/php-experience/bancoDeDados/pdo/src/insert.php?nome=jesse&email=kaique@gmail.com&senha=root%20-->
+//

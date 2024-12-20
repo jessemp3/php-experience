@@ -17,5 +17,5 @@ echo $prepare->rowCount();
 
 
 //exemplo de como passar a url
-http://localhost:63342/php-experience/bancoDeDados/pdo/src/update.php?nome=kaique alves&id=2
+//http://localhost:63342/php-experience/bancoDeDados/pdo/src/update.php?nome=kaique alves&id=2
 
