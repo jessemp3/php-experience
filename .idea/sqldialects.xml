@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/bancoDeDados/pdo/src/delete.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/bancoDeDados/pdo/src/insert.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/bancoDeDados/pdo/src/new methos/user.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/bancoDeDados/pdo/src/script.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/bancoDeDados/pdo/src/update.php" dialect="MySQL" />
+  </component>
+</project>
