@@ -1,0 +1,32 @@
+[
+  {
+    "user_id":1,
+    "username":"jesse",
+    "user_email": "jesse@gmail.com",
+    "user_status": 0
+  },
+  {
+    "user_id": 2,
+    "username": "james",
+    "user_email": "james@gmail.com",
+    "user_status": 1
+  },
+  {
+    "user_id": 3,
+    "username": "kaique",
+    "user_email": "kaique@gmail.com",
+    "user_status": 1
+  },
+  {
+    "user_id": 4,
+    "username": "gabinha",
+    "user_email": "gabinha@gmail.com",
+    "user_status": 1
+  },
+  {
+    "user_id": 5,
+    "username": "hellboy",
+    "user_email": "hellboy@gmail.com",
+    "user_status": 1
+  }
+]
