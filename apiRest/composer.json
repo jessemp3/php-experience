@@ -2,7 +2,7 @@
     "name": "jesse/api-rest",
     "autoload": {
         "psr-4": {
-            "Jesse\\ApiRest\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [

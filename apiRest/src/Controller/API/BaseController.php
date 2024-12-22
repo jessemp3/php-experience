@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Controller\API;
+
 class BaseController
 {
     public function __call($name, $arguments)
@@ -27,10 +29,4 @@ class BaseController
            exit;
        }
     }
-
-
-
-
 }
-
-?>
