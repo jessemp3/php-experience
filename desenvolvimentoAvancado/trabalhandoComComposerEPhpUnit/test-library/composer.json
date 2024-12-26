@@ -1,0 +1,19 @@
+{
+    "name": "jesse/test-library",
+    "autoload": {
+        "psr-4": {
+            "Jesse\\TestLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jesse",
+            "email": "nitchsx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "jessemkv/projeto-cep": "dev-main"
+    }
+}

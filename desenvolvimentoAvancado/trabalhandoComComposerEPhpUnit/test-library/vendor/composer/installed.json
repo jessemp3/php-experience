@@ -1,0 +1,53 @@
+{
+    "packages": [
+        {
+            "name": "jessemkv/projeto-cep",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jessemp3/BuscadorDeCep.git",
+                "reference": "822179de98ddf3ccd59af107e4e1eea754d153ab"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jessemp3/BuscadorDeCep/zipball/822179de98ddf3ccd59af107e4e1eea754d153ab",
+                "reference": "822179de98ddf3ccd59af107e4e1eea754d153ab",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.2.0"
+            },
+            "time": "2024-12-26T14:41:19+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Search": "src/"
+                },
+                "psr-4": {
+                    "Wead\\DigitalCep\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jessemkv",
+                    "email": "nitchsx@gmail.com"
+                }
+            ],
+            "description": "busca de cep online",
+            "support": {
+                "issues": "https://github.com/jessemp3/BuscadorDeCep/issues",
+                "source": "https://github.com/jessemp3/BuscadorDeCep/tree/main"
+            },
+            "install-path": "../jessemkv/projeto-cep"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
