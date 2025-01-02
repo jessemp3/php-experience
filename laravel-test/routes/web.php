@@ -1,14 +1,22 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Psr\Log\LoggerInterface;
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/api/v1/lista', function (LoggerInterface $logger) {
+    $logger->info('Rota /api/v1/lista acessada');
+    return response()->json(["a", "b", "c"]);
 });
 
-Route::get('/login', function () {
-    return view('login');
+Route::get('/', [App\Http\Controllers\Usuario::class, 'cadastrar']);
+Route::post('/salvar', [App\Http\Controllers\Usuario::class, 'salvar']);
+
+
+Route::post('cadatrar', function (){
+    echo 'implementar';
 });
 
 
-Route::apiResource('segurados' , 'API/SeguradosController');
+//Route::get('/', 'Usuario@cadastro');
+//Route::post('/salvar', 'Usuario@salvar');
+
